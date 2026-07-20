@@ -429,10 +429,12 @@ App Store
 * Background Sync
 * Periodic Background Sync
 * Web Share Target
+* Camera Share
 * Badging API
 * Window Controls Overlay (نیازمند API تکمیلی)
 * Clipboard API
 * File System Access API
+* Video/Audio Recording
 * Screen Wake Lock
 * Web Bluetooth
 * WebUSB
