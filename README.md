@@ -456,7 +456,7 @@ App Store
 * `theme_color`
 * `background_color`
 * `categories`
-* icons (به‌ویژه نسخه‌های `maskable`)
+* `icons` (به‌ویژه نسخه‌های `maskable`)
 * `screenshots`
 * `shortcuts`
 * `protocol_handlers`
